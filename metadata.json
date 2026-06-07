@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Sudoku",
+  "description": "A polished 9x9 Sudoku board with unlockable difficulty levels (Easy, Medium, Hard, Excellent), interactive game assistant, and theme options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
